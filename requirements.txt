@@ -1,6 +1,7 @@
-Flask==2.3.3
-gunicorn==21.2.0
-torch==2.0.1
-torchvision==0.15.2
-Pillow==10.0.0
-huggingface-hub==0.16.4
+Flask
+gunicorn
+torch
+torchvision
+Pillow
+huggingface-hub
+
